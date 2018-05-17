@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null, "hey " + answer);
 	JOptionPane.showInputDialog("Write a message");
 	JOptionPane.showMessageDialog(null, "Very good, Thanks!");
+	
 }
 }
